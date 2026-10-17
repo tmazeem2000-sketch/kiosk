@@ -1,0 +1,9 @@
+{
+  "allowed_packages": ["com.tardigrade.app", "com.examgoal.android.app", "in.insightentrancehub.tablet", "com.google.android.apps.bard", "com.google.android.deskclock"],
+  "kiosk_version": 1,
+  "kiosk_apk_url": "https://tmazeem2000-sketch.github.io/kiosk/kiosk.apk",
+  "apps": [
+    { "package": "com.examgoal.android.app", "version": 1555, "urls": ["https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/base.apk", "https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/split_config.arm64_v8a.apk", "https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/split_config.bn.apk", "https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/split_config.en.apk", "https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/split_config.gu.apk", "https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/split_config.kn.apk", "https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/split_config.ta.apk", "https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/split_config.te.apk", "https://tmazeem2000-sketch.github.io/kiosk/apps/com.examgoal.android.app/split_config.tvdpi.apk"] },
+    { "package": "in.insightentrancehub.tablet", "version": 5, "urls": ["https://tmazeem2000-sketch.github.io/kiosk/apps/in.insightentrancehub.tablet/base.apk"] }
+  ]
+}
