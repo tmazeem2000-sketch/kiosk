@@ -1,6 +1,6 @@
 {
   "allowed_packages": ["com.tardigrade.app", "com.examgoal.android.app", "in.insightentrancehub.tablet", "com.google.android.apps.bard", "com.google.android.deskclock"],
-  "system_tiles": ["camera", "gallery"],
+  "system_tiles": [],
   "kiosk_version": 2,
   "kiosk_apk_url": "https://tmazeem2000-sketch.github.io/kiosk/kiosk.apk",
   "apps": [
